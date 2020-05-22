@@ -1,2 +1,2 @@
-# react-content-editable
+# react-editable
 Editable/contentEditable &lt;div> using react hooks
